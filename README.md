@@ -1,0 +1,2 @@
+# cubiccopper-modpack
+cubic
